@@ -1,0 +1,13 @@
+Now the same value in all formats:
+
+🧾 Hex (most common in industry)
+32'hDEADBEEF
+🧾 Binary (bit-level view)
+32'b11011110101011011011111011101111
+🧾 Decimal (unsigned interpretation)
+32'd3735928559
+🧾 Octal (rare in RTL, but valid)
+32'o33653337357
+
+
+//2'b11  = 2'd3  = 2'h3
